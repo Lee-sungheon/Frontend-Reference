@@ -20,5 +20,7 @@
 - [기술 뉴스 #217 : 23-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1657?fbclid=IwAR1O7wZgs-7epqBy6kq0xBXVo4MMnnWeZU7Cuv8tJ6hEyjd4uEBAijN-S4g)
 10. Test
 - [테스트에 대한 오해와 사실](https://jbee.io/developments/misconception-and-facts-about-testing/)
-11. Etc
+11. Error Handling
+- [에러 처리 정리 - 실용주의 FE Dev - 색 공간](https://peter-cho.gitbook.io/book/2022/9/9_1)
+12. Etc
 - [FE 자습할 때 보는 공부노트](https://www.housecode.org/study-note)
