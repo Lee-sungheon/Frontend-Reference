@@ -17,6 +17,7 @@
 5. HTML / CSS
 - [[CSS]　마진 상쇄(겹침) 현상 (Margin Collapsing) 해결하기](https://oliviakim.tistory.com/70)
 6. Web(Browser)
+- [[번역] 웹 접근성 마스터하기: 프런트엔드 개발자를 위한 가이드](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-cdac7a1e2710)
 7. Security
 8. CS
 9. Frontend Trends
@@ -32,3 +33,4 @@
 - [드디어! 👀 모두가 기다리던 그 업데이트가 출시되었다...!](https://youtu.be/eSj25owrmTM)
 14. Etc
 - [FE 자습할 때 보는 공부노트](https://www.housecode.org/study-note)
+- [아마존 웹 서비스를 다루는 기술 - 목차](https://pyrasis.com/aws.html)
