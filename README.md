@@ -11,10 +11,13 @@
 2. Next.js
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
 - [극한의 프론트엔드 성능최적화 1편 (Nextjs 13)](https://velog.io/@baby_dev/%EA%B7%B9%ED%95%9C%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B[…]C%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-1%ED%8E%B8-Nextjs-13)
+- [Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md?utm_source=substack&utm_medium=email)
 3. Javascript
 - [[번역] 지난 3년간의 모든 자바스크립트 및 타입스크립트 기능](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years?utm_source=substack&utm_medium=email)
 - [(번역) :불: 자바스크립트 메모리 관리: 일반적인 메모리 누수를 방지하고 성능을 개선하는 방법](https://ykss.netlify.app/translation/javascript_memory_management/?utm_source=substack&utm_medium=email)
 - [[JavaScript] 가비지 컬렉션(GC)](https://velog.io/@tnghgks/JavaScript-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%EC%85%98GC)
+- [[번역] ES2023에서 도입된 자바스크립트의 새로운 배열 복사 메서드](https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript)
+- [(번역) StructuredClone API를 사용하여 객체를 깊은 복사하는 법](https://soobing.github.io/javascript/deep-copying-objects-with-the-structuredclone-api/)
 4. Typescript
 - [https://ktseo41.github.io/blog/log/fully-typed-web-apps.html](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
 5. HTML / CSS
