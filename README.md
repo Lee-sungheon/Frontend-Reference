@@ -8,6 +8,7 @@
 - [(번역) useMemo를 사용하는 것을 당장 멈추세요!](https://velog.io/@lky5697/stop-using-usememo-now?utm_source=substack&utm_medium=email)
 - [콘솔로그가 이상한건 setState가 비동기 함수여서가 아닙니다.  (feat: fiber architecture)](https://velog.io/@jay/setStateisnotasync)
 - [라이브러리를 추상화해 의존성 낮추기](https://velog.io/@wooogie/FE-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%[…]ED%95%B4-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0)
+- [촉촉한 코드, 건조한 코드](https://velog.io/@gomjellie/The-Wet-Codebase)
 2. Next.js
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
 - [극한의 프론트엔드 성능최적화 1편 (Nextjs 13)](https://velog.io/@baby_dev/%EA%B7%B9%ED%95%9C%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B[…]C%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-1%ED%8E%B8-Nextjs-13)
@@ -18,6 +19,7 @@
 - [[JavaScript] 가비지 컬렉션(GC)](https://velog.io/@tnghgks/JavaScript-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%EC%85%98GC)
 - [[번역] ES2023에서 도입된 자바스크립트의 새로운 배열 복사 메서드](https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript)
 - [(번역) StructuredClone API를 사용하여 객체를 깊은 복사하는 법](https://soobing.github.io/javascript/deep-copying-objects-with-the-structuredclone-api/)
+- [[번역] “const”의 속임수](https://velog.io/@lky5697/the-const-deception?utm_source=substack&utm_medium=email)
 4. Typescript
 - [https://ktseo41.github.io/blog/log/fully-typed-web-apps.html](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
 5. HTML / CSS
@@ -44,3 +46,4 @@
 - [아마존 웹 서비스를 다루는 기술 - 목차](https://pyrasis.com/aws.html)
 - [ChatGPT 알아보기 - ChatGPT의 동작 과정과 프롬프트(Prompt) ?](https://sabarada.tistory.com/252)
 - [미드레벨 SW 엔지니어가 갖춰야 할 7가지 역량 | 요즘IT](https://yozm.wishket.com/magazine/detail/1993/)
+- [주니어 웹 개발자가 알아야 할 ‘비동기 통신’ | 요즘IT](https://yozm.wishket.com/magazine/detail/1982/)
