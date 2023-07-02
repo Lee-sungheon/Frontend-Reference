@@ -9,10 +9,16 @@
 - [콘솔로그가 이상한건 setState가 비동기 함수여서가 아닙니다.  (feat: fiber architecture)](https://velog.io/@jay/setStateisnotasync)
 - [라이브러리를 추상화해 의존성 낮추기](https://velog.io/@wooogie/FE-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%[…]ED%95%B4-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0)
 - [촉촉한 코드, 건조한 코드](https://velog.io/@gomjellie/The-Wet-Codebase)
+- [가상 DOM: 블록으로 돌아가기 | bohyeon.dev](https://ktseo41.github.io/blog/log/virtual-dom-back-in-block.html)
+- [[번역] React Query 적으로 사고하기](https://velog.io/@seungchan__y/React-Query-%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EA%B3%A0%ED%95%98%EA%B8%B0)
+- [react-window로 대형 리스트 가상화](https://web.dev/i18n/ko/virtualize-long-lists-react-window/)
+- [[번역] 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency)
 2. Next.js
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
 - [극한의 프론트엔드 성능최적화 1편 (Nextjs 13)](https://velog.io/@baby_dev/%EA%B7%B9%ED%95%9C%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B[…]C%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-1%ED%8E%B8-Nextjs-13)
 - [Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md?utm_source=substack&utm_medium=email)
+- [2023-06-13 Next.js 13의 서버는 한 개가 아니란다](https://saengmotmi.netlify.app/nextjs/rsc_with_ipc/)
+- [Next) 서버 컴포넌트(React Server Component)에 대한 고찰](https://velog.io/@2ast/React-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A[…]-Server-Component%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
 3. Javascript
 - [[번역] 지난 3년간의 모든 자바스크립트 및 타입스크립트 기능](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years?utm_source=substack&utm_medium=email)
 - [(번역) :불: 자바스크립트 메모리 관리: 일반적인 메모리 누수를 방지하고 성능을 개선하는 방법](https://ykss.netlify.app/translation/javascript_memory_management/?utm_source=substack&utm_medium=email)
@@ -20,6 +26,7 @@
 - [[번역] ES2023에서 도입된 자바스크립트의 새로운 배열 복사 메서드](https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript)
 - [(번역) StructuredClone API를 사용하여 객체를 깊은 복사하는 법](https://soobing.github.io/javascript/deep-copying-objects-with-the-structuredclone-api/)
 - [[번역] “const”의 속임수](https://velog.io/@lky5697/the-const-deception?utm_source=substack&utm_medium=email)
+- [(번역) 이벤트 루프를 차단하지 않기 위한 실용적인 가이드](https://ykss.netlify.app/translation/practical_guide_to_not_blocking_the_event_loop/?utm_source=substack&utm_medium=email)
 4. Typescript
 - [https://ktseo41.github.io/blog/log/fully-typed-web-apps.html](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
 5. HTML / CSS
