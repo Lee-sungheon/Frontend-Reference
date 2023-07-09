@@ -4,6 +4,7 @@
 ### Index
 1. React.js
 - [Stop using “return null” in React](https://medium.com/@davidkelley87/stop-using-return-null-in-react-a2ebf08fc9cd)
+- [유용한 리액트 패턴 5가지](https://velog.io/@dnr6054/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-5%EA%B0%80%EC%A7%80)
 - [객체지향으로 리액트 고급 패턴 이해하기[Compound component & Render props]](https://velog.io/@yesbb/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EA%B4%80%EC%A0%90%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%A0%EA%B8%89-%ED%8C%A8%ED%84%B4-Compound-component-Render-props)
 - [(번역) useMemo를 사용하는 것을 당장 멈추세요!](https://velog.io/@lky5697/stop-using-usememo-now?utm_source=substack&utm_medium=email)
 - [콘솔로그가 이상한건 setState가 비동기 함수여서가 아닙니다.  (feat: fiber architecture)](https://velog.io/@jay/setStateisnotasync)
