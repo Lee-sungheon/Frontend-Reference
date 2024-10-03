@@ -14,6 +14,8 @@
 - [[번역] React Query 적으로 사고하기](https://velog.io/@seungchan__y/React-Query-%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EA%B3%A0%ED%95%98%EA%B8%B0)
 - [react-window로 대형 리스트 가상화](https://web.dev/i18n/ko/virtualize-long-lists-react-window/)
 - [[번역] 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency)
+- [[Deep Dive Magic Code | Goidle](Deep Dive Magic Code | Goidle)](https://goidle.github.io/)
+- [React 19의 핵심 업데이트 사항과 관련 이슈 살펴보기](https://www.intelligencelabs.tech/062b17fe-7b82-4bae-ba7f-0c17baca1bab)
 2. Next.js
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
 - [극한의 프론트엔드 성능최적화 1편 (Nextjs 13)](https://velog.io/@baby_dev/%EA%B7%B9%ED%95%9C%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B[…]C%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-1%ED%8E%B8-Nextjs-13)
@@ -29,6 +31,7 @@
 - [[번역] “const”의 속임수](https://velog.io/@lky5697/the-const-deception?utm_source=substack&utm_medium=email)
 - [(번역) 이벤트 루프를 차단하지 않기 위한 실용적인 가이드](https://ykss.netlify.app/translation/practical_guide_to_not_blocking_the_event_loop/?utm_source=substack&utm_medium=email)
 - [(번역) 미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API :폭발하는_머리:](https://ykss.netlify.app/translation/7_more_js_web_apis_to_build_futuristic_websites_you_didnt_know/?utm_source=substack&utm_medium=email)
+- [(번역) 자바스크립트 메모리 누수의 흔한 이유들](https://ricki-lee.medium.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-%ED%9D%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%93%A4-33dc694a980a)
 4. Typescript
 - [완전한 타입 안정성을 가진 웹 애플리케이션](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
 - [[번역] 왜 타입스크립트는 Object.keys의 타입을 적절하게 추론하지 못할까요?](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%99%9C-%ED%83%80%EC%9E%85%EC%8A%[…]5%98%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C%EC%9A%94-477253b1aafa)
@@ -41,6 +44,7 @@
 - [[번역] 웹 접근성 마스터하기: 프런트엔드 개발자를 위한 가이드](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-cdac7a1e2710)
 - [WebGPU, 크롬 최신 버전에 강림](https://youtu.be/H0KmSvWKvsA)
 7. Security
+- [프론트엔드 개발자를 위한 10가지 보안 관련 팁 - Yohan's Developer Diary](https://yohanpro.com/posts/front-end-security)
 8. CS
 9. Frontend Trends
 - [기술 뉴스 #217 : 23-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1657?fbclid=IwAR1O7wZgs-7epqBy6kq0xBXVo4MMnnWeZU7Cuv8tJ6hEyjd4uEBAijN-S4g)
